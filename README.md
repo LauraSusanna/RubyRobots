@@ -14,7 +14,9 @@ You may use input_example.txt. It is important to conclude the instructions with
 
 ### Running tests
 Run ```python3.9 -m unittest ruby_robot_tests.test_field.TestField``` in /RubyRobotChallenge/
+
 Run ```python3.9 -m unittest ruby_robot_tests.test_ruby_robot.TestRubyRobot``` in /RubyRobotChallenge/
+
 Run ```python3.9 -m unittest ruby_robot_tests.test_input_processor.TestInputProcessor``` in /RubyRobotChallenge/
 
 The test input from the assignment is tested in test_execute_assignment_instructions(), 
